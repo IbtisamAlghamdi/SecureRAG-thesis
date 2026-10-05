@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1405271449.svg)](https://doi.org/10.5281/zenodo.23158671)
 # SecureRAG
 
 A five-layer, training-free defense framework that protects Retrieval-Augmented
